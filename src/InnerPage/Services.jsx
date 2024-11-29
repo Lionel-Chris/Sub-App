@@ -1,6 +1,6 @@
 /* eslint-disable react-refresh/only-export-components */
 import React, {useEffect} from 'react'
-import { services } from "../constant/index"
+import { services } from "../Constants"
 import { SectionWrapper } from "../hoc"
 import AOS from "aos"
 import "aos/dist/aos.css"

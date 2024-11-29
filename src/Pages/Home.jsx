@@ -1,17 +1,18 @@
 import React from 'react'
-import Hero from '../InnerPage/Hero'
-import Meterics from '../InnerPage/Metrics'
-import SubPlans from '../InnerPage/SubPlans'
-import Sublndex from '../InnerPage/SubIndex'
-import Services from '../InnerPage/Services'
+import Hero from "../Innerpage/Hero";
+import Metrics from "../Innerpage/Metrics";
+import Services from "../Innerpage/Services";
+import Subindex from "../Innerpage/Subindex";
+import SubPlans from "../Innerpage/SubPlans";
+
 const Home = () => {
   return (
     <div>
-      <Hero/>
-      <Sublndex/>
-      <Meterics/>
-      <Services/>
-      <SubPlans/>
+      <Hero />
+      <Metrics />
+      <Services />
+      <Subindex />
+      <SubPlans />
     </div>
   )
 }

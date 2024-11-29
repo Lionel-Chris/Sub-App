@@ -1,7 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 import { useEffect } from "react"
-import { Icons } from "../constant/index"
-import { SectionWrapper} from "../hoc"
+import { Icons } from "../Constants"
+import {SectionWrapper} from "../hoc"
 import AOS from "aos"
 import "aos/dist/aos.css"
 

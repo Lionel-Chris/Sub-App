@@ -2,8 +2,8 @@ import React from 'react'
 import Hero from "../Innerpage/Hero";
 import Metrics from "../Innerpage/Metrics";
 import Services from "../Innerpage/Services";
-import Subindex from "../Innerpage/Subindex";
-import SubPlans from "../Innerpage/SubPlans";
+import Subindex from "../Innerpage/SubIndex";
+import SubPlans from "../Innerpage/Subplans";
 
 const Home = () => {
   return (
